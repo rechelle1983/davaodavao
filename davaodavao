@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<img src="https://bit.ly/2wwEHgI" width="350" height="200">
+<style>
+* {
+  box-sizing: border-box;
+}
+.menu {
+  float: left;
+  width: 20%;
+}
+.menuitem {
+  padding: 8px;
+  margin-top: 7px;
+  border-bottom: 1px solid #f1f1f1;
+}
+.main {
+  float: left;
+  width: 60%;
+  padding: 0 20px;
+  overflow: hidden;
+}
+.right {
+  background-color: lightgreen;
+  float: left;
+  width: 20%;
+  padding: 10px 15px;
+  margin-top: 7px;
+}
+
+@media only screen and (max-width:800px) {
+  /* For tablets: */
+  .main {
+    width: 80%;
+    padding: 0;
+  }
+  .right {
+    width: 100%;
+  }
+}
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body style="font-family:Verdana;">
+
+<div style="background-color:#f1f1f1;padding:15px;">
+  <h1>Davao City</h1>
+ 
+</div>
+
+<div style="overflow:auto">
+  <div class="menu">
+    <div class="menuitem">About</div>
+    <div class="menuitem">History</div>
+    <div class="menuitem">Transport</div>
+    <div class="menuitem">Gallery</div>
+  </div>
+
+  <div class="main">
+    <h2>About the Place</h2>
+    <p>Davao was but a small village consisted by various organized barangays. It was ruled by Datu Bago. This chieftain held his settlement near Davao River.
+
+The first recorded attempt of the Spaniards to posses the place was when Don Jose Cruz de Uyanguren, native of Vergara, Guipuzcoa, Spain, together with other 70 men and women. Uyanguren, with his party, planned to defeat Datu Bago for them to get the place. As they were passing the narrow channel of the Davao River bend, their ship was outmaneuvered.  Three months later, still in the plot to dethrone the Datu and to subject the whole place to subjection, Datu Bago’s warriors attacked them which resulted to a battle. Few weeks after, Don Manuel Quesada, the Navy General of Zamboanga, arrived with a company of infantry and joined in the attack against Datu Bago’s settlement. When Datu Bago was defeated, they renamed the whole region as Nueva Guipuzcoa and founded the town Nueva Vergara, which is Davao now, in the year 1848. He became the first governor.</p>
+    <img src="https://bit.ly/2MFvBIu" style="width:100%">
+    <img src="https://bit.ly/2CgIe8i" style="width:100%">   <img src="https://bit.ly/2NaLyWo" style="width:100%">
+
+<h2>Davao Region Hymn </h2>
+<iframe width="710" height="400" src="https://www.youtube.com/embed/BhnLdqmviz0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;"></div>
+
+  </div>
+
+
+  <div class="right">
+    <h2>Population/ Language/ Area</h2>
+    <p>Estimated population of Davao City as of 2011 was 1,530,365 and a land area of 2,444 km2 (944 sq mi). People living in the city are a mixture of Filipino, Chinese, Spanish, Japanese, Korean and Arabic races. Inhabitants, who speak mainly Cebuano as their native language, are called as Davaoeños.</p>
+    <h2>Business Opportunity</h2>
+    <p>Davao City is considered the primary financial hub of Mindanao.One Network Bank is based in the city and is the largest rural bank in the Philippines in terms of assets, most of them located throughout the provinces of Mindanao, including seventeen localities where it is the sole provider of financial services. Government-controlled social insurance agencies like Social Security System and Government Service Insurance System also operate in Davao. In the city there are many Davao Affordable Hotels or Davao Luxurious Hotels where you can stay to transact business opportunity.</p>
+    <h2>Tourist Spots and Destinations</h2>
+    <p><br>1. Philippine Eagle Foundation and Nature Center<br>
+           2. Mt. Apo<br>
+           3. Davao Crocodile Farm<br>
+           4. Pearl Farm Resort</p>
+
+<h2>Davao City Major Festivals</h2>
+<p>1. Araw ng Dabaw (Day of Davao) <br>– which is held every March 16, Davao’s cityhood day.<br>
+2. Kadayawan Festival – held during August.</p>
+  </div>
+</div>
+
+
+</body>
+</html>
